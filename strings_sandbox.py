@@ -1,8 +1,3 @@
-
-
-
-
-
 task = "Subscribe"
 print(id(task))
 
