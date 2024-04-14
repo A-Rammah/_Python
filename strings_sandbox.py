@@ -1,8 +1,11 @@
-msg = "Where am I?"
-#negative indexing.
 
-start = 6
-print(msg[start:start+2])
+
+
+
+
+task = "Subscribe"
+print(id(task))
+
 
 """
 +---+---+---+---+---+---+---+---+---+---+---+
